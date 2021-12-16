@@ -5,7 +5,7 @@ const PasswordComplexityValues = {
 }
 
 const calculateComplexity = password => {
-    return PasswordComplexityValues.GOOD;
+    return "Buena suerte!";
 }
 
 module.exports = {calculateComplexity, PasswordComplexityValues};
