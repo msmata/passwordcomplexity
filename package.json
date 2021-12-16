@@ -1,0 +1,23 @@
+{
+  "name": "passwordcomplexity",
+  "version": "1.0.0",
+  "description": "Entrevista tecnica calculo de complejidad de contraseñas",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msmata/passwordcomplexity.git"
+  },
+  "author": "Martin Mata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msmata/passwordcomplexity/issues"
+  },
+  "homepage": "https://github.com/msmata/passwordcomplexity#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.4"
+  }
+}
