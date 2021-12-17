@@ -24,7 +24,7 @@
 - belen1234 deberia ser buena => 9*4 + 0 + 0 - 4*2 + 4*4 - 4*2 = 36
 - lol123 deberia ser debil => 6*4 + 0 + 0 - 6 + 3*4 - 2*2 = 26
 
-### Una SPA con framework que consuma o bien un servicio Rest o que llame a la función desarrollada en el punto anterior
+### Una SPA con framework Javascript a elección que consuma o bien un servicio Rest o que llame a la función desarrollada en el punto anterior
 - Una pantalla con un campo de ingreso de password, al ingresar caracteres valida la complejidad de la contraseña, y muestra un semáforo acorde, si no hay caracteres ingresados no muestra semáforo
 
 ### Teórico: ¿Cómo implementarías un servicio Rest que use el calculador de complejidad?
